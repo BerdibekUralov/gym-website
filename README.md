@@ -1,5 +1,5 @@
 #  💪 Responsive Gym Website Design
-## [Watch it on netlify](https://gym-webs1te.netlify.app)
+## [Смотри на netlify](https://gym-webs1te.netlify.app)
 ### 💪 Responsive Gym Website Design
 
 - Адаптивный автомобильный веб-сайт с использованием HTML CSS и JavaScript
